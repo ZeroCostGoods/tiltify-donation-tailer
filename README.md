@@ -8,7 +8,7 @@ A config file must be placed in the directory where the exe is located with the 
 ```json
 {
     "access_token": "your-access-token-from-tiltify",
-    "campain_id": "12345"
+    "campaign_id": "12345"
 }
 ```
 
